@@ -48,12 +48,71 @@ EmbeddedChat already supports **UI Kit interactions** (`/api/apps/ui.interaction
 
 ## Contributions (PRs)
 
-| PR | Title |
-|----|--------|
-| <!-- #123 --> | <!-- Short title + link --> |
-| <!-- #124 --> | <!-- ... --> |
+## Contributions
 
-[All my EmbeddedChat PRs](https://github.com/RocketChat/EmbeddedChat/pulls?q=is%3Apr+author%3AYOUR_GITHUB_USERNAME)
+### 🔹 Key Contributions — EmbeddedChat
+
+| Issue | Title | Impact |
+|------|------|--------|
+| #1251 | User profile sidebar doesn’t open from quoted message | Fixed inconsistency between quoted and normal messages, improving navigation UX |
+| #1249 | Multi-message selection & bulk delete | Enables faster moderation and message management |
+| #1247 | Audio playback & incorrect file format | Improves reliability of audio messages and attachments |
+| #1245 | Emoji reaction inconsistency via picker | Ensures consistent toggle behavior (aligned with Slack/Discord UX) |
+
+👉 View all EmbeddedChat contributions:  
+https://github.com/RocketChat/EmbeddedChat/issues?q=author%3Arohitbansal2005
+
+---
+
+### 🔹 Contributions — Rocket.Chat Core
+
+| Issue | Title | Impact |
+|------|------|--------|
+| #39792 | Make roomId optional in mentioned/starred APIs | Enables global data fetching across rooms |
+| #39791 | Activity Hub global fetch for mentions & starred | Supports unified activity dashboard feature |
+| #39765 | Cache settings in OmnichannelTranscript | Reduces repeated API/database calls (performance improvement) |
+| #39762 | Inconsistent return type in parseUriList | Fixes OAuth redirect handling bug |
+
+👉 View all Rocket.Chat contributions:  
+https://github.com/RocketChat/Rocket.Chat/issues?q=author%3Arohitbansal2005
+
+
+## Contributions
+
+### 🔹 Pull Requests — EmbeddedChat
+
+| PR | Title | Impact |
+|----|------|--------|
+| #1252 | Open user info sidebar from quoted messages | Fixes UX inconsistency and improves user navigation |
+| #1250 | Multi-message selection & bulk delete | Enables efficient moderation and bulk actions |
+| #1248 | Fix audio playback & download handling | Improves reliability of audio messages and attachments |
+| #1246 | Emoji reaction toggle via picker | Ensures consistent UX (aligned with Slack/Discord behavior) |
+
+👉 View all EmbeddedChat PRs:  
+https://github.com/RocketChat/EmbeddedChat/pulls?q=author%3Arohitbansal2005
+
+---
+
+### 🔹 Pull Requests — Rocket.Chat Core
+
+| PR | Title | Impact |
+|----|------|--------|
+| #39793 | Make roomId optional in mentioned/starred APIs | Enables global activity fetching across rooms |
+| #39766 | Cache settings in OmnichannelTranscript | Reduces repeated API calls (performance optimization) |
+| #39763 | Normalize parseUriList return type | Fixes OAuth redirect handling bug |
+| #39734 | Fix livechat transfer comment overflow | Improves UI rendering for long messages |
+| #39705 | Add autocomplete for TOTP fields | Enhances UX with password manager support |
+
+👉 View all Rocket.Chat PRs:  
+https://github.com/RocketChat/Rocket.Chat/pulls?q=author%3Arohitbansal2005
+
+### 🔹 Contribution Highlights
+
+- Improved chat UX consistency across multiple interaction flows  
+- Built scalable features like bulk message actions  
+- Optimized backend performance with caching strategies  
+- Fixed critical API and authentication-related issues  
+- Contributed across multiple repositories in the Rocket.Chat ecosystem  
 
 ## Tech stack touched
 
@@ -81,5 +140,3 @@ EmbeddedChat already supports **UI Kit interactions** (`/api/apps/ui.interaction
 Thanks to the EmbeddedChat maintainers and the Rocket.Chat community for reviews and guidance.
 
 ---
-
-*This README describes my contributions only. It is not affiliated with Google Summer of Code unless you explicitly participated — add a GSoC banner and program link if applicable.*
