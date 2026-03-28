@@ -105,7 +105,7 @@ https://github.com/RocketChat/EmbeddedChat/pulls?q=author%3Arohitbansal2005
 
 👉 View all Rocket.Chat PRs:  
 https://github.com/RocketChat/Rocket.Chat/pulls?q=author%3Arohitbansal2005
-
+---
 ### 🔹 Contribution Highlights
 
 - Improved chat UX consistency across multiple interaction flows  
@@ -113,27 +113,25 @@ https://github.com/RocketChat/Rocket.Chat/pulls?q=author%3Arohitbansal2005
 - Optimized backend performance with caching strategies  
 - Fixed critical API and authentication-related issues  
 - Contributed across multiple repositories in the Rocket.Chat ecosystem  
-
+---
 ## Tech stack touched
 
 - `packages/react` — Message list, quote UI, attachments, toolbox, stores  
 - `packages/api` / auth flows — Where relevant for media or commands  
 - `packages/ui-elements` — Small shared UI fixes (e.g. tooltip)  
 - **Rocket.Chat Apps** — TypeScript, Apps-Engine, UI Kit
-
-## Learn more
-
-- [EmbeddedChat docs](https://rocketchat.github.io/EmbeddedChat/)  
-- [Create a Rocket.Chat App](https://developer.rocket.chat/docs/create-an-app)
-
+---
 ## Connect
 
 | | |
-|--|--|
-| **Name** | YOUR NAME |
-| **GitHub** | [@YOUR_USERNAME](https://github.com/YOUR_USERNAME) |
-| **LinkedIn** | YOUR_LINK |
-| **Email** | YOUR_EMAIL |
+| **Role**   |**Rohit kumar Bansal – GSoC Participant** |
+| **Affiliation** |  [Rocket.Chat](https://rocket.chat/) |    
+|**Project** |      |
+| **Name** | Rohit Kumar Bansal |
+| **GitHub** | [@rohitbansal2005](https://github.com/rohitbansal2005) |
+| **LinkedIn** | https://linkedin.com/in/rkbansal23 |
+| **Email** | rohitkumarbansal23@gmail.com |
+| **Rocket.Chat**  | [rohit.kumar.bansal](https://open.rocket.chat/direct/rohit.kumar.bansal)
 
 ## Acknowledgements
 
