@@ -123,15 +123,14 @@ https://github.com/RocketChat/Rocket.Chat/pulls?q=author%3Arohitbansal2005
 ---
 ## Connect
 
-| | |
-| **Role**   |**Rohit kumar Bansal – GSoC Participant** |
-| **Affiliation** |  [Rocket.Chat](https://rocket.chat/) |    
-|**Project** |      |
-| **Name** | Rohit Kumar Bansal |
-| **GitHub** | [@rohitbansal2005](https://github.com/rohitbansal2005) |
-| **LinkedIn** | https://linkedin.com/in/rkbansal23 |
-| **Email** | rohitkumarbansal23@gmail.com |
-| **Rocket.Chat**  | [rohit.kumar.bansal](https://open.rocket.chat/direct/rohit.kumar.bansal)
+| **Role**           | **Rohit Kumar Bansal – GSoC Participant**                                      |
+| :----------------- | :----------------------------------------------------------------------------- |
+| **Affiliation**    | [Rocket.Chat](https://rocket.chat/)                                            |
+| **Project**        | EmbeddedChat & Rocket.Chat Contributions                                       |
+| **GitHub**         | [@rohitbansal2005](https://github.com/rohitbansal2005)                         |
+| **LinkedIn**       | [@rkbansal23](https://linkedin.com/in/rkbansal23)                              |
+| **Email**          | [rohitkumarbansal23@gmail.com](mailto:rohitkumarbansal23@gmail.com)            |
+| **Rocket.Chat**    | [rohit.kumar.bansal](https://open.rocket.chat/direct/rohit.kumar.bansal)       |
 
 ## Acknowledgements
 
