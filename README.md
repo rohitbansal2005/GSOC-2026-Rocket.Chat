@@ -26,7 +26,8 @@ I contribute to [EmbeddedChat](https://github.com/RocketChat/EmbeddedChat), a li
 I built and deployed **three** Rocket.Chat Apps on my workspace:
 
 
-https://github.com/user-attachments/assets/f6337a1a-64a9-4931-baa5-90907e947d1a
+<img width="2854" height="1694" alt="Screenshot 2026-03-28 121042" src="https://github.com/user-attachments/assets/33bf1cc2-c6c4-4177-8282-ea520abf91a8" />
+
 
 
 | App | Purpose (short) |
