@@ -25,6 +25,7 @@ I contribute to [EmbeddedChat](https://github.com/RocketChat/EmbeddedChat), a li
 
 I built and deployed **three** Rocket.Chat Apps on my workspace:
 
+<a>https://github.com/rohitbansal2005/RC-APP</a>
 
 <img width="2854" height="1694" alt="Screenshot 2026-03-28 121042" src="https://github.com/user-attachments/assets/33bf1cc2-c6c4-4177-8282-ea520abf91a8" />
 
@@ -128,6 +129,7 @@ https://github.com/RocketChat/EmbeddedChat/pulls?q=author%3Arohitbansal2005
 
 👉 View all Rocket.Chat PRs:  
 https://github.com/RocketChat/Rocket.Chat/pulls?q=author%3Arohitbansal2005
+
 ---
 ### 🔹 Contribution Highlights
 
