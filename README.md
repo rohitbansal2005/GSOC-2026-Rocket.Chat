@@ -1,1 +1,1 @@
-# GSOC-2026-Rocket.Chat
+# Google Summer of Code 2026 [RocketChat]
