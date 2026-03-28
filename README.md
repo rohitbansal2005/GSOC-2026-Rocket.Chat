@@ -20,17 +20,41 @@ I contribute to [EmbeddedChat](https://github.com/RocketChat/EmbeddedChat), a li
 - **Audio / attachments** — Improvements around preview, authenticated media URLs where needed, and download naming so audio flows behave more predictably in embedded + Storybook setups.
 - **UI polish** — Tooltip / DOM nesting fixes where inline markup met block-level wrappers.
 
-*Replace this list with your exact PR links once merged — see table below.*
 
 ### Rocket.Chat Apps (private / custom)
 
 I built and deployed **three** Rocket.Chat Apps on my workspace:
+
+
+https://github.com/user-attachments/assets/f6337a1a-64a9-4931-baa5-90907e947d1a
+
 
 | App | Purpose (short) |
 |-----|------------------|
 | **Poll** | Create and run polls (e.g. via slash command / UI Kit flow). |
 | **Grammar check** | Check or improve message text from chat. |
 | **Activity** | Surface per-user or workspace activity insights. |
+
+### Demo Videos (RC Apps)
+
+#### Poll (RC App)
+
+
+https://github.com/user-attachments/assets/c790132d-abf2-4359-8b90-555d6bdb2f6d
+
+#### GrammarChecker (RC App)
+
+
+
+https://github.com/user-attachments/assets/cd8faba6-005d-4805-96e4-9db3fc3705e8
+
+#### Activity (RC App)
+
+
+
+https://github.com/user-attachments/assets/c8372920-2bd3-4fe4-a569-85ab35851f56
+
+
 
 These apps use the standard **Apps-Engine** workflow (`rc-apps create`, deploy/package) and integrate with Rocket.Chat’s **UI Kit** where modals or contextual views are needed. Reference: [Create an App](https://developer.rocket.chat/docs/create-an-app).
 
@@ -45,8 +69,6 @@ EmbeddedChat already supports **UI Kit interactions** (`/api/apps/ui.interaction
 - Quoted message → profile sidebar from avatar/username  
 - Bulk select → delete flow  
 - Poll / grammar / activity app demos (RC web + EmbeddedChat if wired)
-
-## Contributions (PRs)
 
 ## Contributions
 
